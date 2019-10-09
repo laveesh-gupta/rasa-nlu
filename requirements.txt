@@ -1,6 +1,6 @@
 ## Setup py requirements
 jsonpickle
-six==1.11.0
+six
 redis==2.10.6
 fakeredis==0.10.3
 future==0.17.1
