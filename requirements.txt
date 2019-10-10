@@ -1,7 +1,7 @@
 ## Setup py requirements
 jsonpickle
 six
-redis==2.10.6
+redis
 fakeredis==0.10.3
 future==0.17.1
 numpy~=1.16.0
