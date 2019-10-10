@@ -2,7 +2,7 @@
 jsonpickle
 six
 redis
-fakeredis==0.10.3
+fakeredis
 future==0.17.1
 numpy~=1.16.0
 typing==3.6.6
