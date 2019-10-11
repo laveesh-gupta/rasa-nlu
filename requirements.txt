@@ -3,7 +3,7 @@ jsonpickle
 six
 redis
 fakeredis
-future==0.17.1
+future
 numpy~=1.16.0
 typing==3.6.6
 ruamel.yaml==0.15.85
