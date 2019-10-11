@@ -4,7 +4,7 @@ six
 redis
 fakeredis
 future
-numpy~=1.16.0
+numpy
 typing==3.6.6
 ruamel.yaml==0.15.85
 requests~=2.2
