@@ -5,7 +5,7 @@ redis
 fakeredis
 future
 numpy
-typing==3.6.6
+typing
 ruamel.yaml==0.15.85
 requests~=2.2
 tensorflow
