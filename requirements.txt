@@ -10,7 +10,7 @@ ruamel.yaml
 requests
 tensorflow
 h5py
-apscheduler==3.5.1
+apscheduler
 tqdm==4.29.1
 ConfigArgParse==0.13.0
 networkx==2.2
