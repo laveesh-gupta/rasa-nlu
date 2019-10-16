@@ -11,7 +11,7 @@ requests
 tensorflow
 h5py
 apscheduler
-tqdm==4.29.1
+tqdm
 ConfigArgParse==0.13.0
 networkx==2.2
 pykwalify==1.7.0
