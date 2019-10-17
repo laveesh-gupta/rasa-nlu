@@ -12,7 +12,7 @@ tensorflow
 h5py
 apscheduler
 tqdm
-ConfigArgParse==0.13.0
+ConfigArgParse
 networkx==2.2
 pykwalify==1.7.0
 coloredlogs==10.0
