@@ -13,7 +13,7 @@ h5py
 apscheduler
 tqdm
 ConfigArgParse
-networkx==2.2
+networkx
 pykwalify==1.7.0
 coloredlogs==10.0
 flask==1.0.2
