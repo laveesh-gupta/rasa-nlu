@@ -17,7 +17,7 @@ networkx
 pykwalify
 coloredlogs
 flask
-flask_cors==3.0.7
+flask_cors
 scikit-learn==0.20.2
 rasa_nlu
 colorhash==1.0.2
