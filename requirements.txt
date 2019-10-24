@@ -21,7 +21,7 @@ flask_cors
 scikit-learn
 rasa_nlu
 colorhash
-pika==0.12.0
+pika
 jsonschema==2.6.0
 packaging~=18.0
 gevent==1.4
