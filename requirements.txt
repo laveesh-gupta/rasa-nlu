@@ -23,7 +23,7 @@ rasa_nlu
 colorhash
 pika
 jsonschema
-packaging~=18.0
+packaging
 gevent==1.4
 pytz==2018.9
 rasa-core-sdk~=0.12.2
