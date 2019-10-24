@@ -22,7 +22,7 @@ scikit-learn
 rasa_nlu
 colorhash
 pika
-jsonschema==2.6.0
+jsonschema
 packaging~=18.0
 gevent==1.4
 pytz==2018.9
