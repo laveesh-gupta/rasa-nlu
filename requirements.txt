@@ -26,7 +26,7 @@ jsonschema
 packaging
 gevent
 pytz
-rasa-core-sdk~=0.12.2
+rasa-core-sdk
 rasa_core
 pymongo==3.7.2
 python-dateutil==2.7.5
