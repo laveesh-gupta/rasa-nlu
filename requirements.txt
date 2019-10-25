@@ -24,7 +24,7 @@ colorhash
 pika
 jsonschema
 packaging
-gevent==1.4
+gevent
 pytz==2018.9
 rasa-core-sdk~=0.12.2
 rasa_core
