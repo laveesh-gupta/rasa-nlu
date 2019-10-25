@@ -25,7 +25,7 @@ pika
 jsonschema
 packaging
 gevent
-pytz==2018.9
+pytz
 rasa-core-sdk~=0.12.2
 rasa_core
 pymongo==3.7.2
