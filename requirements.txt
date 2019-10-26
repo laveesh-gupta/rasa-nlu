@@ -29,7 +29,7 @@ pytz
 rasa-core-sdk
 rasa_core
 pymongo
-python-dateutil==2.7.5
+python-dateutil
 spacy~=2.0.18
 sklearn_crfsuite==0.3.6
 keras-applications==1.0.6
