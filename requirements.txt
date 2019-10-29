@@ -30,7 +30,7 @@ rasa-core-sdk
 rasa_core
 pymongo
 python-dateutil
-spacy~=2.0.18
+spacy
 sklearn_crfsuite==0.3.6
 keras-applications==1.0.6
 keras-preprocessing==1.0.5
