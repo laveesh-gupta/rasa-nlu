@@ -31,6 +31,6 @@ rasa_core
 pymongo
 python-dateutil
 spacy
-sklearn_crfsuite==0.3.6
+sklearn_crfsuite
 keras-applications==1.0.6
 keras-preprocessing==1.0.5
