@@ -32,5 +32,5 @@ pymongo
 python-dateutil
 spacy
 sklearn_crfsuite
-keras-applications==1.0.6
+keras-applications
 keras-preprocessing==1.0.5
