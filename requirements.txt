@@ -33,4 +33,4 @@ python-dateutil
 spacy
 sklearn_crfsuite
 keras-applications
-keras-preprocessing==1.0.5
+keras-preprocessing
